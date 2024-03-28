@@ -2,7 +2,7 @@
 ## By Edgar Cusi
 
 <p align="center">
-    [<img src="images/afp.png">](https://github.com/CusiTEC/Project-Course-Data-Engineering-/issues/1#issue-2213245020)
+   https://github.com/CusiTEC/Project-Course-Data-Engineering-/issues/1#issue-2213245020
 </p>
 
 ### Definición:

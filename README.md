@@ -1,86 +1,23 @@
-Title
-===
-Abstract:xxx
-## Papar Information
-- Title:  `paper name`
-- Authors:  `A`,`B`,`C`
-- Preprint: [https://arxiv.org/abs/xx]()
-- Full-preprint: [paper position]()
-- Video: [video position]()
+# Course Project - Data Engineering Zoomcamp
+## By Edgar Raul Cusi Osccorima
 
-## Install & Dependence
-- python
-- pytorch
-- numpy
+Este proyecto fue realizado gracias al zoomcamp de Data Engineering dictado por DataTalksClub, en cada parte de este proyecto demuestro cada una de las habilidades que logre desarrollar para dar inicio a mi carrera como Data Engineer.
 
-## Dataset Preparation
-| Dataset | Download |
-| ---     | ---   |
-| dataset-A | [download]() |
-| dataset-B | [download]() |
-| dataset-C | [download]() |
+El siguiente proyecto es un ejemplo de un caso practico con datos usados de Kaggle, primero mostraré el digrama del proyecto y por ultimo el orden de este para que pueda ser revisado y replicado cuidadosamente.
 
-## Use
-- for train
-  ```
-  python train.py
-  ```
-- for test
-  ```
-  python test.py
-  ```
-## Pretrained model
-| Model | Download |
-| ---     | ---   |
-| Model-1 | [download]() |
-| Model-2 | [download]() |
-| Model-3 | [download]() |
+### Diagrama del proyecto
 
+![proyectofinal](https://github.com/CusiTEC/Project-Course-Data-Engineering-/assets/104920177/eccae104-91f5-4fba-84c1-48f6c1d04875)
 
-## Directory Hierarchy
-```
-|—— 1. Problem description
-|    |—— README.md
-|—— 2. Cloud
-|    |—— README.md
-|—— 3. Data ingestion
-|    |—— data_exporter.py
-|    |—— data_loader.py
-|    |—— io_config.yaml
-|    |—— README.md
-|—— 4. Data warehouse
-|    |—— README.md
-|—— 5. Dashboard
-|    |—— README.md
-|—— 5. Transformations
-|    |—— README.md
-```
-## Code Details
-### Tested Platform
-- software
-  ```
-  OS: Debian unstable (May 2021), Ubuntu LTS
-  Python: 3.8.5 (anaconda)
-  PyTorch: 1.7.1, 1.8.1
-  ```
-- hardware
-  ```
-  CPU: Intel Xeon 6226R
-  GPU: Nvidia RTX3090 (24GB)
-  ```
-### Hyper parameters
-```
-```
-## References
-- [paper-1]()
-- [paper-2]()
-- [code-1](https://github.com)
-- [code-2](https://github.com)
-  
-## License
+### Orden del proyecto
 
-## Citing
-If you use xxx,please use the following BibTeX entry.
-```
-```
-# Project-Course-Data-Engineering-
+1. Problem description
+2. Cloud
+3. Data ingestion
+4. Data warehouse
+5. Transformations
+6. Dashboard
+
+Cualquier duda o consulta contactarse conmigo.
+
+Gracias.

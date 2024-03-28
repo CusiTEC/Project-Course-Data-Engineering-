@@ -1,10 +1,10 @@
 ## Transformations
 
-Para esta parte use la plataforma DataBricks conectada medainte el .json que nos da el proyecto en GCP, de esta forma podemos realizar las transformaciones necesarias con PySpark.
+For this part, use the DataBricks platform connected to the .json that the project in GCP gives us, this way we can perform the necessary transformations with PySpark.
 
 ![Databricks_Logo](https://github.com/CusiTEC/Project-Course-Data-Engineering-/assets/104920177/1ec9ee13-53c5-49a6-b689-7f3d5f9cb5f7)
 
-Son 3 Notebooks usados para la parte de transformaciones y limpieza de la data, pasando por cada uno hasta llegar a la parte donde pueda ser consumido por Google BigQuery.
+There are 3 Notebooks used for the transformations and data cleaning part, going through each one until reaching the part where it can be consumed by Google BigQuery.
 
 ### 5.1. Carga de Workload a Landing
 ![db1](https://github.com/CusiTEC/Project-Course-Data-Engineering-/assets/104920177/91e5e587-20a3-4b84-afe7-2116ff1dc08d)

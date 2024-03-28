@@ -1,11 +1,10 @@
 ## Data Ingestion
 
-Para esta parte use GCP, tal cual lo vimos en el curso se uso una instancia de VM, la cual configuramos para instalar MAGE y realizar todo los procesos de orquestación.
+For this part I used GCP, as we saw in the course, a VM instance was used, which we configured to install MAGE and carry out all the orchestration processes.
 
-MAGE permitio realizar el ETL de ingesta hacia Google Cloud Storage, previamente debemos tener definido el archivo .json y ademas de configurar el archivo io_config.yaml para establer una conexion.
+MAGE allowed us to perform the ingestion ETL towards Google Cloud Storage, previously we must have defined the .json file and in addition to configure the io_config.yaml file to establish a connection.
 
-Se puede visualizar los archivos usados del ETL de ingesta:
-
+You can view the files used from the ingest ETL:
 ### data_loader.py
 ![python](https://github.com/CusiTEC/Project-Course-Data-Engineering-/assets/104920177/d8349508-6515-4a15-a8d8-f85118a16b2f)
 

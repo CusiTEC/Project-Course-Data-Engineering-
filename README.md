@@ -1,11 +1,11 @@
 # Course Project - Data Engineering Zoomcamp
 ## By Edgar Raul Cusi Osccorima
 
-Este proyecto fue realizado gracias al zoomcamp de Data Engineering dictado por DataTalksClub, en cada parte de este proyecto demuestro cada una de las habilidades que logre desarrollar para dar inicio a mi carrera como Data Engineer.
+This project was carried out thanks to the Data Engineering zoomcamp taught by DataTalksClub, in each part of this project I demonstrate each of the skills that I managed to develop to start my career as a Data Engineer.
 
-El siguiente proyecto es un ejemplo de un caso practico con datos usados de Kaggle, primero mostraré el digrama del proyecto y por ultimo el orden de este para que pueda ser revisado y replicado cuidadosamente.
+The following project is an example of a practical case with data used from Kaggle, first it will show the diagram of the project and finally the order of it so that it can be carefully reviewed and replicated.
 
-### Diagrama del proyecto
+### Project diagram
 
 ![proyectofinal](https://github.com/CusiTEC/Project-Course-Data-Engineering-/assets/104920177/eccae104-91f5-4fba-84c1-48f6c1d04875)
 
@@ -18,6 +18,6 @@ El siguiente proyecto es un ejemplo de un caso practico con datos usados de Kagg
 5. Transformations
 6. Dashboard
 
-Cualquier duda o consulta contactarse conmigo.
+If you have any questions or queries, contact me.
 
-Gracias.
+Thank you.

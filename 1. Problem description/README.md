@@ -13,7 +13,7 @@ Rubro: Seguros y AFP
 
 
 ### Objetivo
-Lograr la disponibilidad del data warehouse de Prima AFP en la nube para mejorar la escalabilidad, flexibilidad, seguridad, disponibilidad y control de costos, con el fin de optimizar la gestión de datos y potenciar la toma de decisiones estratégicas en la empresa.
+Lograr la disponibilidad del data warehouse de la afp designada en la nube para mejorar la escalabilidad, flexibilidad, seguridad, disponibilidad y control de costos, con el fin de optimizar la gestión de datos y potenciar la toma de decisiones estratégicas en la empresa.
 
 
 ![afp](https://github.com/CusiTEC/Project-Course-Data-Engineering-/assets/104920177/abed3a37-d1e6-48f1-aa27-f7c3f461d5cb)

@@ -1,11 +1,10 @@
 # Dashboard
 
-Para esta ultima parte de la parte de la capa de consumo realize un Dashboard en LookerStudio, el cual consume de la tabla creada en Google BigQuery tb_afiliados.
+For this last part of the consumption layer part, create a Dashboard in LookerStudio, which consumes the table created in Google BigQuery tb_afiliados.
 
 ![DASH2](https://github.com/CusiTEC/Project-Course-Data-Engineering-/assets/104920177/48f42990-1994-4a26-9ba7-b9a1a6f383c6)
 
-
-Al ser todo un ecosistema en GCP ,es mas sencillo hacer todo el consumo.
+Since there is an entire ecosystem in GCP, it is easier to do all the consumption.
 
 Link: https://lookerstudio.google.com/reporting/789a05b8-1f74-432a-9cfb-3f0fed697db8
 

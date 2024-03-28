@@ -1,10 +1,10 @@
 # Cloud
 
-Para esta parte use GCP, tal cual lo vimos en el curso se uso una instancia de VM, la cual configuramos para instalar MAGE y realizar todo los procesos de orquestación y creación de pipeline, se explicara con mas detalle en el modulo de ingesta.
+For this part I used GCP, as we saw in the course, a VM instance was used, which we configured to install MAGE and carry out all the orchestration and pipeline creation processes, it will be explained in more detail in the ingestion module.
 
-Para la parte de almacenamiento se uso Cloud Storage Bucket y para el modelo de las tablas creadas se uso BigQuery.
+For the storage part, Cloud Storage Bucket was used and BigQuery was used for the model of the created tables.
 
-Con esto podemos adjuntar las imagenes de como se ven usando estas herramientas en nube.
+With this we can attach the images of how they look using these cloud tools.
 
 ## Instancia de VM
 ![cloud1](https://github.com/CusiTEC/Project-Course-Data-Engineering-/assets/104920177/9785652a-b836-424c-bfbe-bfc900d0cace)

@@ -1,9 +1,7 @@
 # Course Project - Data Engineering Zoomcamp
 ## By Edgar Cusi
 
-<p align="center">
-   ![afp](https://github.com/CusiTEC/Project-Course-Data-Engineering-/assets/104920177/abed3a37-d1e6-48f1-aa27-f7c3f461d5cb)
-</p>
+![afp](https://github.com/CusiTEC/Project-Course-Data-Engineering-/assets/104920177/abed3a37-d1e6-48f1-aa27-f7c3f461d5cb)
 
 ### Definición:
 El objetivo de las AFPs es generar rentabilidad sobre los aportes de los trabajadores para que estos puedan tener una jubilación digna. Cuando un trabajador se jubila, puede acceder a una pensión mensual de acuerdo con el saldo acumulado en su fondo de pensiones.
